@@ -8,7 +8,7 @@
 클릭하면 인터넷창이 나옵니다 ! <br>
 ##스크립트 다운 장소
 여기 깃허브나<br>
-http://cafe.naver.com/minecraftpe/ <br>
+http://cafe.naver.com/minecraftpe/2447329 <br>
 이 사이트에서 공유중입니다
 ##라이센스
 라이센스는 그대로
