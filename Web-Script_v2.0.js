@@ -3,7 +3,7 @@ Bplayer=new android.media.MediaPlayer();
 
 function newLevel()
 {
-clientMessage("§a제작자 : §6고수이발");
+clientMessage("§a제작자 : §6제스퍼");
 clientMessage("§b인터넷 버튼을 누르면 인터넷 실행 !");
 var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
 ctx.runOnUiThread(new java.lang.Runnable({ run: function() {
@@ -37,7 +37,7 @@ android.graphics.drawable.ColorDrawable(android.graphics.Color.TRANSPARENT));
 btnWindow.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.LEFT |
 android.view.Gravity.TOP, 10,60);
 }catch(error){
-print("진저 이하 오류");
+print("안드로이드 진저브레드 이하 오류");
 }
 } }));
 }
